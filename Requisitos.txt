@@ -1,0 +1,13 @@
+
+Utilizar o pip que pode ser encontrado na pasta Scripts do Python
+A instalação dos imports é feito no Prompt de comando(cmd)
+
+Imports necessários no Python:
+telebot
+time
+json
+requests
+urliib
+
+Utilizado Python 3.3 Windows
+
